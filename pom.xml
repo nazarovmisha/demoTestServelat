@@ -7,7 +7,7 @@
     <groupId>com.example.serv</groupId>
     <artifactId>demoserv</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>demoTestServelat</name>
+    <name>demoTestServlet</name>
     <packaging>war</packaging>
 
     <properties>
@@ -52,7 +52,7 @@
                 <version>2.2</version>
                 <configuration>
                     <path>/</path>
-                    <port>8095</port>
+                    <port>8080</port>
                 </configuration>
             </plugin>
         </plugins>
